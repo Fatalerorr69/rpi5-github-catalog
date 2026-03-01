@@ -1,4 +1,4 @@
-import requests, os, json
+import requests, os
 from datetime import datetime
 
 TOKEN = os.getenv("GITHUB_TOKEN")
@@ -8,9 +8,9 @@ KEYWORDS = ["raspberry pi 5", "rpi5", "arm64", "raspi", "bcm2712"]
 
 CATEGORIES = {
     "OS": ["linux","distro","ubuntu","debian","arch"],
-    "AI": ["ai","ml","llm","neural"],
+    "AI": ["ai","ml","llm"],
     "Docker/DevOps": ["docker","kubernetes","container"],
-    "IoT/GPIO": ["gpio","iot","sensor","hardware"],
+    "IoT/GPIO": ["gpio","iot","sensor"],
     "Media/Gaming": ["retro","emulator","kodi","game"],
     "Security": ["pentest","hack","security"],
     "Web/Dashboard": ["dashboard","monitor","web"],
@@ -28,7 +28,7 @@ def categorize(text):
 results = []
 
 for kw in KEYWORDS:
-    url = f"https://api.github.com/search/repositories?q={kw}&sort=stars&order=desc&per_page=50"
+    url = f"https://api.github.com/search/repositories?q={kw}&sort=stars&order=desc&per_page=30"
     r = requests.get(url, headers=HEADERS)
     items = r.json().get("items", [])
 
