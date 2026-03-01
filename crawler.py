@@ -54,4 +54,19 @@ with open("data/rpi5_github_index.md", "w", encoding="utf-8") as f:
             if r["category"] == cat:
                 f.write(f"- [{r['name']}]({r['url']}) ⭐{r['stars']} ({r['lang']})\n")
 
+
+import json
+
+with open("data/rpi5_github_index.json", "w", encoding="utf-8") as f:
+    json.dump(results, f, indent=2, ensure_ascii=False)
+
+
+import json
+
+with open("data/rpi5_github_index.json") as f:
+    data = json.load(f)
+
+for repo in data:
+    print(repo["name"], repo["url"], repo["category"])
+
 print("Hotovo")
