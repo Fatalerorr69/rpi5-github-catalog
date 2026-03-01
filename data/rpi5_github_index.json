@@ -1,12 +1,1 @@
-[
-  {
-    "name": "example/repo1",
-    "url": "https://github.com/example/repo1",
-    "category": "OS"
-  },
-  {
-    "name": "example/repo2",
-    "url": "https://github.com/example/repo2",
-    "category": "AI"
-  }
-]
+[]

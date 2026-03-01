@@ -1,2 +1,4 @@
-example/repo1 https://github.com/example/repo1 OS
-example/repo2 https://github.com/example/repo2 AI
+# Raspberry Pi 5 GitHub Catalog
+
+Aktualizace: 2026-03-01 05:10
+
