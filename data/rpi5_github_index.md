@@ -1,6 +1,6 @@
 # Raspberry Pi 5 GitHub Catalog
 
-Aktualizace: 2026-03-01 04:13
+Aktualizace: 2026-03-01 04:33
 
 ## AI
 
@@ -18,7 +18,6 @@ Aktualizace: 2026-03-01 04:13
 - [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) ⭐4059 (Python)
 - [alibaba/coobjc](https://github.com/alibaba/coobjc) ⭐4028 (Objective-C)
 - [ophub/fnnas](https://github.com/ophub/fnnas) ⭐2715 (Shell)
-- [Pro/raspi-toolchain](https://github.com/Pro/raspi-toolchain) ⭐180 (CMake)
 ## Docker/DevOps
 
 - [homebridge/docker-homebridge](https://github.com/homebridge/docker-homebridge) ⭐2687 (Shell)
@@ -26,8 +25,6 @@ Aktualizace: 2026-03-01 04:13
 
 - [Felipegalind0/RPI5.pinout](https://github.com/Felipegalind0/RPI5.pinout) ⭐75 (None)
 - [vanshksingh/Pi5Neo](https://github.com/vanshksingh/Pi5Neo) ⭐46 (Python)
-- [raspberrypi/raspiraw](https://github.com/raspberrypi/raspiraw) ⭐272 (C)
-- [Rowingporte/rpi5-pigpio](https://github.com/Rowingporte/rpi5-pigpio) ⭐0 (None)
 ## Media/Gaming
 
 - [danielfreer/raspberrypi5-retropie-setup](https://github.com/danielfreer/raspberrypi5-retropie-setup) ⭐183 (None)
@@ -50,10 +47,6 @@ Aktualizace: 2026-03-01 04:13
 - [JonathanSalwan/ROPgadget](https://github.com/JonathanSalwan/ROPgadget) ⭐4376 (Python)
 - [Joshua-Riek/ubuntu-rockchip](https://github.com/Joshua-Riek/ubuntu-rockchip) ⭐3942 (Shell)
 - [openfans-community-offical/Debian-Pi-Aarch64](https://github.com/openfans-community-offical/Debian-Pi-Aarch64) ⭐2582 (Shell)
-- [jasbur/RaspiWiFi](https://github.com/jasbur/RaspiWiFi) ⭐631 (Python)
-- [TheRemote/Ubuntu-Server-raspi4-unofficial](https://github.com/TheRemote/Ubuntu-Server-raspi4-unofficial) ⭐538 (Shell)
-- [asb/raspi-config](https://github.com/asb/raspi-config) ⭐271 (Shell)
-- [exaviorn/RasPiWrite](https://github.com/exaviorn/RasPiWrite) ⭐213 (Python)
 ## Other
 
 - [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) ⭐3440 (JavaScript)
@@ -110,35 +103,6 @@ Aktualizace: 2026-03-01 04:13
 - [limine-bootloader/limine](https://github.com/limine-bootloader/limine) ⭐2831 (C)
 - [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) ⭐2801 (Ruby)
 - [Botspot/pi-apps](https://github.com/Botspot/pi-apps) ⭐2663 (Shell)
-- [bztsrc/raspi3-tutorial](https://github.com/bztsrc/raspi3-tutorial) ⭐2997 (C)
-- [raspiblitz/raspiblitz](https://github.com/raspiblitz/raspiblitz) ⭐2599 (Python)
-- [raspibolt/raspibolt](https://github.com/raspibolt/raspibolt) ⭐1265 (Markdown)
-- [framps/raspiBackup](https://github.com/framps/raspiBackup) ⭐972 (Shell)
-- [nebrius/raspi-io](https://github.com/nebrius/raspi-io) ⭐548 (TypeScript)
-- [ali1234/raspi-teletext](https://github.com/ali1234/raspi-teletext) ⭐440 (C)
-- [segalion/raspipool](https://github.com/segalion/raspipool) ⭐432 (Python)
-- [me-no-dev/RasPiArduino](https://github.com/me-no-dev/RasPiArduino) ⭐354 (C++)
-- [cedricve/raspicam](https://github.com/cedricve/raspicam) ⭐330 (C++)
-- [troyth/node-raspicam](https://github.com/troyth/node-raspicam) ⭐325 (JavaScript)
-- [SpaceTeddy/CC1101](https://github.com/SpaceTeddy/CC1101) ⭐318 (C++)
-- [jsandler18/raspi-kernel](https://github.com/jsandler18/raspi-kernel) ⭐308 (C)
-- [UbiquityRobotics/raspicam_node](https://github.com/UbiquityRobotics/raspicam_node) ⭐306 (C++)
-- [eidottermihi/rpicheck](https://github.com/eidottermihi/rpicheck) ⭐295 (Java)
-- [rcarmo/raspi-cluster](https://github.com/rcarmo/raspi-cluster) ⭐256 (C)
-- [AndrewFromMelbourne/raspidmx](https://github.com/AndrewFromMelbourne/raspidmx) ⭐218 (C)
-- [Raspirus/raspirus](https://github.com/Raspirus/raspirus) ⭐214 (Rust)
-- [AndrewFromMelbourne/raspi2png](https://github.com/AndrewFromMelbourne/raspi2png) ⭐213 (C)
-- [nebrius/raspi](https://github.com/nebrius/raspi) ⭐207 (TypeScript)
-- [steve71/RasPiBrew](https://github.com/steve71/RasPiBrew) ⭐192 (Python)
-- [raspberry-pi-camera/raspindi](https://github.com/raspberry-pi-camera/raspindi) ⭐191 (C)
-- [garthvh/ansible-raspi-playbooks](https://github.com/garthvh/ansible-raspi-playbooks) ⭐186 (Shell)
-- [RaspbianFrance/raspisms](https://github.com/RaspbianFrance/raspisms) ⭐173 (PHP)
-- [ma6174/speak_raspi_ip](https://github.com/ma6174/speak_raspi_ip) ⭐164 (Python)
-- [qnx/bsp_raspberrypi-bcm2712-rpi5](https://github.com/qnx/bsp_raspberrypi-bcm2712-rpi5) ⭐7 (C)
-- [wrig0421/rpi5_bcm2712](https://github.com/wrig0421/rpi5_bcm2712) ⭐0 (None)
-- [msh8k/rpi4-bootloader](https://github.com/msh8k/rpi4-bootloader) ⭐0 (C)
-- [kiripaul/OpenWRT_for_RaspberryPi5](https://github.com/kiripaul/OpenWRT_for_RaspberryPi5) ⭐0 (Standard ML)
-- [tyui541006/RPi5-2712ZPKFSB00D0T-UEFI](https://github.com/tyui541006/RPi5-2712ZPKFSB00D0T-UEFI) ⭐0 (C)
 ## Web/Dashboard
 
 - [mendhak/waveshare-epaper-display](https://github.com/mendhak/waveshare-epaper-display) ⭐526 (Python)
